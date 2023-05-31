@@ -26,9 +26,6 @@ VoiceGPT es una aplicación basada en Java que utiliza la biblioteca de ChatGPT 
 3. Espera a que la aplicación procese la pregunta y genere una respuesta.
 4. La respuesta se mostrará en una ventana aparte y se reproducirá en voz alta. 🖥️🔊
 
-## ToDo
-
-- Añadir soporte para que la aplicación reconozca preguntas mediante voz. 🎤👂
 
 ## Contribución
 
